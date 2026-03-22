@@ -31,4 +31,4 @@ AIの力を活用して、コードの品質向上を支援するデスクトッ
 
 ## 📦 インストールと実行方法
 
-最新の [Releases](https://github.com/Hishiren/AI-code-reviewer/releases) から `v1.0.0` のexeファイルをダウンロードして実行してください。
+~~最新の [Releases](https://github.com/Hishiren/AI-code-reviewer/releases) から `v1.0.0` のexeファイルをダウンロードして実行してください。~~ 準備中
