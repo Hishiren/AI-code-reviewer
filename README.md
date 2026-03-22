@@ -28,3 +28,7 @@ AIの力を活用して、コードの品質向上を支援するデスクトッ
 ### AI / インフラ
 - **AWS Bedrock**: 高性能な基盤モデルによるコード解析
 - **PyInstaller**: 実行ファイル（.exe / .app）化による配布
+
+## 📦 インストールと実行方法
+
+最新の [Releases](https://github.com/Hishiren/AI-code-reviewer/releases) から `v1.0.0` のexeファイルをダウンロードして実行してください。
