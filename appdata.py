@@ -3,7 +3,7 @@ from dataclasses import dataclass, field
 @dataclass
 class AppSettings:
     source_code_font: str = "Meiryo"
-    review_mode: str = "refactoring"
+    review_mode: str = "Refactoring"
     ai_model: str = "Nova 2 Lite"
     source_code_language: str = "Python"
     default_text_font_size: int = 15
